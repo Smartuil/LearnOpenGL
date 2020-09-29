@@ -14,4 +14,15 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\OpenGL\LearnOpenGLPackage\src\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="环境搭建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.GettingStarted\1.1.HelloWindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
