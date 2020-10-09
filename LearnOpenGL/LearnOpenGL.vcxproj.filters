@@ -21,8 +21,13 @@
     <ClCompile Include="环境搭建.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.GettingStarted\1.1.HelloWindow.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="learnopengl\shader_s.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="learnopengl\stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
