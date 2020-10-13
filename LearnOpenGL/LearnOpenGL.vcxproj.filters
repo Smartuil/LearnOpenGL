@@ -21,7 +21,7 @@
     <ClCompile Include="环境搭建.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4.AdvancedOpengl\11.2\11.2.AntiAliasingOffscreen.cpp">
+    <ClCompile Include="5.AdvancedLighting\9\9.Ssao.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

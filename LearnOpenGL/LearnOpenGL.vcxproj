@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\OpenGL\LearnOpenGLPackage\src\glad.c" />
-    <ClCompile Include="4.AdvancedOpengl\11.2\11.2.AntiAliasingOffscreen.cpp" />
+    <ClCompile Include="5.AdvancedLighting\9\9.Ssao.cpp" />
     <ClCompile Include="环境搭建.cpp" />
   </ItemGroup>
   <ItemGroup>
